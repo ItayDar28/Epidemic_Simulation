@@ -8,14 +8,6 @@ import random
 '''
 
 
-def get_name():
-    return 'Itay Dar'
-
-
-def get_id():
-    return 312541915
-
-
 class Epidemic_Simulation:
     ''' Creating an epidemic simulation with given parameters,
         In order to detect the epidemic behaviour and find a path to get over it.
